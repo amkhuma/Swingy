@@ -1,0 +1,3 @@
+John the Teenager,knight,1,2000,34,21,0,pistol,spacesuit,frog_mouthed,src/main/java/packages/images/default-image.png
+Alex the Great,elf,2,2517,20,15,55,knife,leather,pot,src/main/java/packages/images/default-image.png
+Thor the Mighty,knight,1,2000,18,15,50,sword,leather,nasal,src/main/java/packages/images/default-image.png
